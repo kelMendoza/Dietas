@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dieta1">
+        <item>La clínica Mayo es una de las compañías de hospitales privados más
+            prestigiosa del mundo, muy conocida por su potente labor de investigación.
+            Los nutricionistas de la institución elaboraron una dieta estandarizada que
+            recomiendan a los pacientes para perder peso, pero también para mantener una
+            alimentación saludable a lo largo del tiempo</item>
+        <item>Para seguir correctamente la dieta hay que practicar 30 minutos de ejercicio intenso al día</item>
+        <item>Se trata de una dieta excelente como régimen de mantenimiento, pues es muy completa y segura, aunque no permite adelgazar tan rápido como otros planes. No se elimina ningún nutriente pero, como en la mayoría de planes de adelgazamiento prima la ingesta de frutas, vegetales y cereales integrales.</item>
+        <item>El objetivo de la dieta de Mayo Clinic es ayudarte a bajar el exceso de peso y a encontrar una manera de comer que puedas mantener de por vida. Se centra en cambiar tu rutina diaria al agregar o romper hábitos que puedan marcar una diferencia en tu peso, como comer más frutas y vegetales, no comer mientras miras la televisión y hacer ejercicio durante 30 minutos al día.</item>
+        <item>En la fase inicial de la dieta, que dura dos semanas, se pueden perder entre 2,7 y 4,5 kilos. Este es un esquema tipo de un menú diario, que contiene 1.200 calorías. En esta etapa, te centras en los hábitos del estilo vida que se relacionan con el peso. Aprendes a adoptar cinco hábitos saludables, a abandonar cinco malos y a incorporar otros cinco adicionales. Esta etapa puede ayudarte a ver algunos resultados rápidos (un estímulo psicológico).</item>
+        <item>-> Desayuno:</item>
+        <item> ** Un yogur desnatado y una pieza de fruta.</item>
+        <item> ** 1/2 taza de avena cocida con una de leche y dos cucharadas de pasas, 1/4 de mango y una bebida sin calorías.</item>
+        <item>-> Comida:</item>
+        <item> ** Una ensalada de pasta elaborada con una lata de atún, cuatro tazas de pasta cocida, dos tazas de zanahoria y calabacín en dados y cuatro cucharadas de mayonesa baja en calorías y una naranja.</item>
+        <item> ** Pasteles de quinoa y batata, ensalada mixta con aderezo sin grasa y una bebida sin calorías.</item>
+        <item>-> Cena:</item>
+        <item> ** Una tercio de una pizza de queso de 12 pulgadas.</item>
+        <item> ** Una ensalada verde elaborada con media taza de tomate en rodajas, cebolla roja y champiñones. Y dos cucharadas de aliño.</item>
+        <item> * 1 pizza de pan árabe, 3/4 de taza de frutas mezcladas y una bebida sin calorías</item>
+        <item>-> Aperitivo entre las tres comidas:</item>
+        <item> ** Una manzana.</item>
+        <item> ** 1 taza de pimientos morrón en tiras y 2 cucharadas de hummus.</item>
+    </string-array>
+
+    <string-array name="dieta2">
+        <item>La dieta mediterránea es la dieta tradicional que cuenta con un mayor respaldo científico y todos conocemos en qué consiste: un consumo alto de frutas, verduras, pescado, cereales integrales, legumbres y aceite de oliva, y bajo en carne roja, azúcares y grasas saturadas. Pero, además, un componente importante es la práctica de ejercicio. Dado que es la dieta que se utilizaba en nuestro país hasta hace no mucho, es muy fácil de seguir. Pero hay que tener en cuenta que lo que hoy podemos entender como “dieta mediterránea” no siempre corresponde a lo que los científicos entienden como tal.</item>
+        <item>Siempre aparecen dietas nuevas, pero no todas son recomendables. Para que una sea efectiva para adelgazar no puede ser demasiado estricta</item>
+        <item>El estudio Predimed realizado en España, por ejemplo, concluía en una investigación publicada en 'The New England Journal of Medicine' que una dieta mediterránea enriquecida con frutos secos y aceite de oliva virgen extra reduce en un 30% la posibilidad de morir por un accidente cardiovascular. Una nueva investigación publicada hoy en el 'International Journal of Epidemiology', no obstante, matiza la bondad universal de mezclar frutas, verduras, pescado, cereales, legumbres y aceite de oliva, y añade un matiz olvidado para que esta dieta sea verdaderamente eficaz: tener dinero o pertenecer a la clase alta.</item>
+        <item>Utiliza aceite de oliva. Es el aceite más utilizado en la cocina mediterránea. Es un alimento rico en vitamina E, beta-carotenos y ácidos grasos monoinsaturados que le confieren propiedades cardioprotectoras. Este alimento representa un tesoro dentro de este régimen y ha perdurado a través de siglos entre las costumbres gastronómicas regionales otorgando a los platos un sabor y aroma únicos.</item>
+        <item>Los alimentos poco procesados, frescos y de temporada son los más adecuados. Es importante aprovechar los productos de temporada ya que, sobre todo en el caso de las frutas y verduras, nos permite consumirlas en su mejor momento, tanto a nivel de aportación de nutrientes como por su aroma y sabor.</item>
+        <item>-> Desayuno:</item>
+        <item> ** Un café con leche.</item>
+        <item> ** Una rebanada de pan con aceite de oliva.</item>
+        <item> ** Un vaso de zumo de naranja natural.</item>
+        <item>-> Aperitivo:</item>
+        <item> ** Una pieza de fruta.</item>
+        <item>-> Comida:</item>
+        <item> ** Lentejas guisadas.</item>
+        <item> ** Albóndigas con guisantes y zanahoria.</item>
+        <item> ** Fresas con nata.</item>
+        <item>-> Merienda:</item>
+        <item> ** Queso fresco con miel.</item>
+        <item>-> Cena:</item>
+        <item> ** Ensalada mixta.</item>
+        <item> ** Pescado al horno con patata asada.</item>
+        <item> ** Un yogurt.</item>
+    </string-array>
+
+    <string-array name="dieta3">
+        <item>La dieta DASH responde al acrónimo 'Dietary Approaches to Stop Hypertension' (“enfoque alimenticio para detener la hipertensión”) y, como su nombre indica, fue desarrollada por el Instituto Nacional de Salud estadounidense como una dieta específica para tratar a pacientes con tensión alta. Aunque no nació como una dieta de adelgazamiento, sí que sirve para tal fin.</item>
+        <item>Las grasas saturadas, los azúcares refinados y los carbohidratos están prácticamente prohibidos</item>
+        <item>Se trata de una dieta muy variada en la que se prima la ingesta de frutas, verduras y lácteos bajos en grasa. También se consumen cereales integrales, carne, pescado y legumbres, pero de forma más restringida. Las grasas saturadas, los azúcares refinados y los carbohidratos están prácticamente prohibidos. La dieta va acompañada de un plan de actividades de ejercicio físico y reduce a la mínima expresión el consumo de alcohol. Dado que es una dieta especialmente recomendable para tratar la hipertensión, la sal está limitada al punto justo en que nuestros guisos empiezan a saber a algo.</item>
+        <item>-> Desayuno:</item>
+        <item> ** Sándwich integral de pavo y tomate.</item>
+        <item> ** Una naranja.</item>
+        <item> ** Un té verde.</item>
+        <item>-> Aperitivo:</item>
+        <item> ** Piña.</item>
+        <item>-> Comida:</item>
+        <item> ** Lomo de cerdo asado con arroz integral y frijoles.</item>
+        <item> ** Una ensalada de lechuga.</item>
+        <item>-> Merienda:</item>
+        <item> ** Palitos de zanahoria</item>
+        <item>-> Cena:</item>
+        <item> ** Pasta con tomate natural y mejillones.</item>
+        <item> ** Gelatina sin azúcar.</item>
+    </string-array>
+
+    <string-array name="dieta4">
+        <item>El término de este régimen se refiere a aquellas personas que basan su alimentación en una dieta vegetariana pero que de manera ocasional, y que por las razones que sea, consumen algunos productos de origen animal como mariscos, pescados o aves.</item>
+        <item>Algunos pensarán que entonces todo el mundo entra dentro de este concepto, pero no es así. </item>
+        <item>Su alimentación esta basada en una dieta verde y el consumo de origen animal es ocasional o excepcional.Lo que lo define es la frecuencia en este tipo de ingesta de alimentos.</item>
+        <item>-> Para cenar algo ligero y rápido:</item>
+        <item> ** Ensalada de lechugas, tomate, zanahoria y queso.</item>
+        <item>Enfatiza el consumo de frutas, vegetales, cereales integrales y proteínas vegetales, que suplan las que aportaría la carne, aunque la dieta también permite el consumo de huevos y lácteos.</item>
+        <item>La carne como tal solo se añade en muy pequeñas cantidades como ingrediente en platos de pasta o ensaladas.</item>
+    </string-array>
+
+    <string-array name="dieta5">
+        <item>La Universidad de Newcastle, en Australia, ha presentado un programa de adelgazamiento solo pensado para hombres y la han bautizado como Workplace POWER, acrónimo de Preventing Obesity Whitout Eating Like a Rabbit ('Prevenir la obesidad sin comer como un conejo').</item>
+        <item>Estos son sus principales consejos:</item>
+        <item>-> Desayuno:</item>
+        <item>Evita alimentos de alto índice glucémico e ingiere proteínas, que te mantendrán saciado durante más tiempo. Los huevos son siempre una buena opción.</item>
+        <item>-> Comida:</item>
+        <item>Las ensaladas y las sobras de lo que hagas para cenar son siempre una buena opción. Si por cualquier motivo te ves obligado a comer fuera, trata de elegir opciones saludables, como sándwiches vegetales. Trata de comer siempre fruta y evita las bebidas azucaradas.</item>
+        <item>-> Cena:</item>
+        <item>Piensa en las proporciones de tu comida: la mitad deben ser vegetales, un cuarto carne y otro carbohidratos.</item>
+        <item>Lleva siempre comida de casa para evitar ingerir alimentos demasiado calóricos propios de los establecimientos de comida rápida y las máquinas de 'vending'.</item>
+        <item>Lee siempre las etiquetas de lo que vayas a ingerir y ten en cuenta sus calorías para evitar exceder tus requerimientos diarios. Es la mejor forma de estar seguro de que no estás ganando peso.</item>
+        <item>Piensa antes de comer. No tienes que renunciar a las bebidas y comidas que te gustan simplemente debes reducir un poco la ingesta de las más calóricas e introducir opciones más saludables. Muévete. Mantente de pie y anda todo lo que puedas.</item>
+        <item>Todos los pasos cuentan si tratas de perder peso.</item>
+    </string-array>
+
+    <string-array name="dieta6">
+        <item>Fue diseñada por el Instituto Nacional de Salud estadounidense, aunque en esta ocasión como una dieta para tratar el colesterol.</item>
+        <item>De nuevo, los expertos han considerado que es una dieta ideal para todo tipo de perfiles, pues es “muy saludable, completa y segura”.</item>
+        <item>Se trata de un régimen con un enfoque basado en el “hazlo tú mismo”: es muy flexible pero requiere un gran compromiso, dado que no está tan pautada como otras dietas.</item>
+        <item>La clave del plan reside en la reducción a la mínima expresión del consumo de grasas, en particular las grasas saturadas (lácteos enteros, fritos, carnes grasas…). Por lo demás, se prima el consumo de cereales integrales, fruta, vegetales, pescado y pollo (sin la piel).</item>
+    </string-array>
+</resources>
